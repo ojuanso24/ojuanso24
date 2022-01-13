@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juansa / ojuanso24</h1>
+<h1 align="center">Hola 👋, soy Juansa / ojuanso24</h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
