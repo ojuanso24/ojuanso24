@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Juansa / ojuanso24</h1>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">"=)"</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
